@@ -1,1 +1,0 @@
-# WorkGroupConstructorClass3
